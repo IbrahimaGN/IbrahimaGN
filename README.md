@@ -6,6 +6,9 @@ Bonjour, je suis Ibrahima GNINGUE, Aspirant Data Analyst, Data Engineer, Data de
 Actuellement, je travaille sur la mise en place d'un dashboard sur le RGPH du Sénégal<br>J'apprends le Machine learning<br>j'ai besoin d'un collaborateur pour mon projet<br>vous pouvez me contacter à mon adresse suivant: gningkhalilo49@gmail.com
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=IbrahimaGN&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ibrahima Khalil Gningue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ibrahima-gningue) 
 
@@ -16,7 +19,6 @@ Actuellement, je travaille sur la mise en place d'un dashboard sur le RGPH du S�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimaGN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimaGN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=IbrahimaGN&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
