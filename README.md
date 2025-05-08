@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Bonjour, je suis Ibrahima GNINGUE, Aspirant Data Analyst, Data Engineer, Data developer. Je suis en formation en Développement Data à l'école du code de la Sonatel academy.
+Bonjour, je suis Ibrahima GNINGUE, Data Analyst, Data Engineer, Data developer. Je suis Alumni formation en Développement Data à l'école du code de la Sonatel academy.
 
 # 💫 About Me:
-Actuellement, je travaille sur la mise en place d'un dashboard sur le RGPH du Sénégal<br>J'apprends le Machine learning<br>j'ai besoin d'un collaborateur pour mon projet<br>vous pouvez me contacter à mon adresse suivant: gningkhalilo49@gmail.com
+Actuellement, je travaille sur le mise en place d'un dashboard de la DFC-Sonatel du Sénégal<br>J'apprends le Machine learning<br>je suis à la recherche d'opportinuités<br>vous pouvez me contacter à mon adresse suivant: gningkhalilo49@gmail.com
 
 
 ---
